@@ -1,0 +1,32 @@
+
+# Privacy Policy for Landscapes AI
+
+Effective Date: [Date]
+
+## Introduction
+
+"Landscapes AI" is a personal project aimed at sharing AI-generated landscape photos with our community on Facebook. This Privacy Policy is intended to inform users about our practices regarding the collection, use, and disclosure of any information we might receive.
+
+## Information We Collect
+
+"Landscapes AI" does not collect, store, or use any personal data from Facebook users. Our sole purpose is to post AI-generated landscape photos and related texts. We do not interact with user data or their interactions beyond the posting of content.
+
+## Use of Information
+
+As "Landscapes AI" does not collect personal information from users, we do not apply any use of personal data. Posts on our Facebook page are intended solely for viewing and appreciation by users.
+
+## Sharing and Disclosure of Information
+
+We do not share or disclose any personal information of users, as we do not collect such information.
+
+## Security
+
+We are committed to protecting the security of any information that may be collected, though, according to our policy and practice, we do not collect personal data from users.
+
+## Changes to the Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. Any changes will become effective immediately after being posted on our GitHub page. We encourage users to review this policy periodically to be informed about how we are protecting any information that may be collected.
+
+## Contact
+
+For any questions or comments regarding this Privacy Policy, please contact us through our Facebook page "Landscapes AI".
