@@ -1,7 +1,7 @@
 
 # Privacy Policy for Landscapes AI
 
-Effective Date: [Date]
+Effective Date: [21/02/2024]
 
 ## Introduction
 
